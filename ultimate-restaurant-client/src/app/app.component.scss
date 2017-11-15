@@ -1,0 +1,45 @@
+body {
+    font-size: 14px;
+}
+
+.header {
+    background-color: #509e2f;
+    width: 100%;
+}
+
+#logo{
+    width: 3in;
+    height: 1in;
+}
+.table {
+    width: 100%;
+}
+.rest-name {
+    width: 20%;
+}
+.rest-desc {
+    width: 30%;
+}
+.rest-city {
+    width: 15%;
+}
+.rest-state {
+    width: 15%;
+}
+.rest-cuisine {
+    width: 10%;
+}
+.rest-rating {
+    width: 10%;
+}
+
+.form-row {
+    padding: 5px 0;
+}
+
+button {
+    width: 100%;
+}
+form {
+    padding-top: 10px;
+}
